@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arif Rahaman</h1>
 <h3 align="center">A passionate Web developer and coder</h3>
-<img align="right" alt="coding" width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1s4v46nWuqH6tIEWqVFz4oRSsIJpZjmjig&s">
+<img align="right" alt="coding" width ="400" src="https://github.com/user-attachments/assets/1d8669ff-4cbd-43ed-bfe1-19d7d37bcc37">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifrahaman&label=Profile%20views&color=0e75b6&style=flat" alt="arifrahaman" /> </p>
 
 - 🌱 I’m currently learning **React js, Node js, Express, MongoDB,DSA**
