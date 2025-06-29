@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-    [!Leetcode Status](https://leetcard.jacoblin.cool/Arifrahaman?theme=dark&font=Chewy&ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 </div>
