@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/priyankahotkar_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Arifrahaman/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Arifrahaman?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Arifrahaman/)
 </div>
