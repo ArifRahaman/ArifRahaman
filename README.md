@@ -22,4 +22,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifrahaman&show_icons=true&locale=en&layout=compact" alt="arifrahaman" /></p>
 
+
+<div align="center">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/priyankahotkar_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/ArifRahaman)
+
+</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifrahaman&" alt="arifrahaman" /></p>
