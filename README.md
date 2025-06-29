@@ -58,11 +58,11 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifrahaman&show_icons=true&locale=en&layout=compact" alt="arifrahaman" />
 </p>
-
+<p>LEETCODE</p>
 <div align="center">
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+ <img src= "https://leetcard.jacoblin.cool/Arifrahaman?theme=dark&font=Chewy&ext=heatmap"/>
 </div>
+
